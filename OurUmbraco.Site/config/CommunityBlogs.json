@@ -238,9 +238,9 @@
       "id": "5ce41c5d-2386-4516-8db3-4a14f38a19c8",
       "checkTitles": false,
       "title": "Søren Kottal",
-      "url": "https://dev.to/skttl",
-      "rss": "https://dev.to/feed/skttl",
-      "logo": "https://our.umbraco.com/media/upload/65cfa307-6f67-47de-a489-fc1bef5d48ad/img_3335.png",
+      "url": "https://skttl.dev",
+      "rss": "https://skttl.dev/rss.xml",
+      "logo": "https://skttl.dev/og/index.png",
       "memberId": 109985
     },
     {
